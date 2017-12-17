@@ -23,7 +23,7 @@
 			b4 r r2 | 
 			r4 r b cis |
 			dis8 cis dis cis dis cis b cis |
-			dis8. dis16 dis8 e dis( cis) cis cis( |
+			dis8. dis16 dis8 e dis( cis~) cis cis( |
 			b2.) r4 |
 			r1|
 			b8 cis dis b cis dis b cis |
